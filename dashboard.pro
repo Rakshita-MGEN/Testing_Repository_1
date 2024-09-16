@@ -1,3 +1,4 @@
+#This is a demo comment
 TEMPLATE = app
 TARGET = dashboard
 INCLUDEPATH += .
